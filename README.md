@@ -1,7 +1,5 @@
 # App-Cesta-de-Verduras
-<p align="center">
- ![GIF-220511_164304](https://user-images.githubusercontent.com/79206432/167934499-1cc7f75e-9f15-4b7f-888e-057add055255.gif)
-</p>
+![GIF-220511_164304](https://user-images.githubusercontent.com/79206432/167944663-2c1585c9-195e-4984-8791-c07416b7c540.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
